@@ -118,6 +118,48 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>Администрирование</Subsystem>
+			<Role>ктв_сб_СобытияНастройка</Role>
+			<CommonTemplate>ктв_сб_СобытияВерсияПодсистемы</CommonTemplate>
+			<CommonModule>ктв_сб_ОбработкиОбслуживанияВызовСервера</CommonModule>
+			<CommonModule>ктв_сб_ОбработкиОбслуживания</CommonModule>
+			<CommonModule>ктв_сб_ОбработкиОбслуживанияКлиент</CommonModule>
+			<CommonModule>ктв_сб_События</CommonModule>
+			<CommonModule>ктв_сб_СобытияВызовСервера</CommonModule>
+			<CommonModule>ктв_сб_СобытияГлобальный</CommonModule>
+			<CommonModule>ктв_сб_СобытияКлиент</CommonModule>
+			<CommonModule>ктв_сб_СобытияОбновлениеИнформационнойБазы</CommonModule>
+			<CommonModule>ОбщегоНазначенияКлиентСервер</CommonModule>
+			<EventSubscription>ктв_сб_СобытияВсеОбъектыПриКопировании</EventSubscription>
+			<EventSubscription>ктв_сб_СобытияВсеОбъектыКромеДокументовПередЗаписью</EventSubscription>
+			<EventSubscription>ктв_сб_СобытияДокументыПередЗаписью</EventSubscription>
+			<EventSubscription>ктв_сб_СобытияВсеОбъектыПриЗаписи</EventSubscription>
+			<EventSubscription>ктв_сб_СобытияВсеОбъектыПередУдалением</EventSubscription>
+			<EventSubscription>ктв_сб_СобытияВсеОбъектыОбработкаЗаполнения</EventSubscription>
+			<EventSubscription>ктв_сб_СобытияВсеОбъектыОбработкаПроверкиЗаполнения</EventSubscription>
+			<EventSubscription>ктв_сб_СобытияДокументыОбработкаПроведения</EventSubscription>
+			<EventSubscription>ктв_сб_СобытияДокументыОбработкаУдаленияПроведения</EventSubscription>
+			<EventSubscription>ктв_сб_СобытияБизнессПроцессыЗадачиОбработкаИнтерактивнойАктивации</EventSubscription>
+			<EventSubscription>ктв_сб_СобытияЗадачиОбработкаПроверкиВыполнения</EventSubscription>
+			<EventSubscription>ктв_сб_СобытияЗадачиПередВыполнением</EventSubscription>
+			<EventSubscription>ктв_сб_СобытияЗадачиПередИнтерактивнымВыполнением</EventSubscription>
+			<EventSubscription>ктв_сб_СобытияЗадачиПриВыполнении</EventSubscription>
+			<EventSubscription>ктв_сб_СобытияВсеНаборыЗаписейОбработкаПроверкиЗаполнения</EventSubscription>
+			<EventSubscription>ктв_сб_СобытияВсеНаборыЗаписейКромеРегистраРасчетовПередЗаписью</EventSubscription>
+			<EventSubscription>ктв_сб_СобытияВсеНаборыЗаписейКромеРегистраРасчетовПриЗаписи</EventSubscription>
+			<EventSubscription>ктв_сб_СобытияРегистрыСведенийОбработкаЗаполнения</EventSubscription>
+			<ScheduledJob>ктв_сб_СобытияУдалениеОбработанных</ScheduledJob>
+			<Catalog>ИдентификаторыОбъектовМетаданных</Catalog>
+			<Catalog>Пользователи</Catalog>
+			<Catalog>ктв_сб_События</Catalog>
+			<Catalog>ктв_сб_СобытияОбработчики</Catalog>
+			<Catalog>ктв_сб_СобытияТочкиВозникновения</Catalog>
+			<DataProcessor>ктв_сб_СобытияОбработчик_УниверсальныйОбработчик</DataProcessor>
+			<DataProcessor>ктв_сб_СобытияПроверка_УниверсальнаяПроверка</DataProcessor>
+			<InformationRegister>ктв_сб_События</InformationRegister>
+			<InformationRegister>ктв_сб_СобытияНазначенныеОбработчики</InformationRegister>
+			<InformationRegister>ктв_сб_СобытияОбработка</InformationRegister>
+			<InformationRegister>ктв_сб_СобытияОбработкаНаКлиенте</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
