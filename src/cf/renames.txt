@@ -46,14 +46,10 @@ Catalogs\Пользователи\Ext\Help.xml-->Catalogs\Пользовател
 Catalogs\Пользователи\Ext\ManagerModule.bsl-->Catalogs\Пользователи\Ext\ManagerModule.bsl
 Catalogs\Пользователи\Ext\ObjectModule.bsl-->Catalogs\Пользователи\Ext\ObjectModule.bsl
 Catalogs\Пользователи\Ext\Help\ru.html-->Catalogs\Пользователи\Ext\Help\ru.html
-Catalogs\Пользователи\Forms\ВыборПользователяОперационнойСистемы.xml-->Catalogs\Пользователи\Forms\ВыборПользователяОперационнойСистемы.xml
 Catalogs\Пользователи\Forms\ФормаСписка.xml-->Catalogs\Пользователи\Forms\ФормаСписка.xml
 Catalogs\Пользователи\Forms\ФормаЭлемента.xml-->Catalogs\Пользователи\Forms\ФормаЭлемента.xml
-Catalogs\Пользователи\Forms\ВыборПользователяОперационнойСистемы\Ext\Form.xml-->Catalogs\Пользователи\Forms\ВыборПользователяОперационнойСистемы\Ext\Form.xml
-Catalogs\Пользователи\Forms\ВыборПользователяОперационнойСистемы\Ext\Help.xml-->Catalogs\Пользователи\Forms\ВыборПользователяОперационнойСистемы\Ext\Help.xml
-Catalogs\Пользователи\Forms\ВыборПользователяОперационнойСистемы\Ext\Form\Module.bsl-->Catalogs\Пользователи\Forms\ВыборПользователяОперационнойСистемы\Ext\Form\Module.bsl
-Catalogs\Пользователи\Forms\ВыборПользователяОперационнойСистемы\Ext\Help\ru.html-->Catalogs\Пользователи\Forms\ВыборПользователяОперационнойСистемы\Ext\Help\ru.html
 Catalogs\Пользователи\Forms\ФормаСписка\Ext\Form.xml-->Catalogs\Пользователи\Forms\ФормаСписка\Ext\Form.xml
+Catalogs\Пользователи\Forms\ФормаСписка\Ext\Form\Module.bsl-->Catalogs\Пользователи\Forms\ФормаСписка\Ext\Form\Module.bsl
 Catalogs\Пользователи\Forms\ФормаЭлемента\Ext\Form.xml-->Catalogs\Пользователи\Forms\ФормаЭлемента\Ext\Form.xml
 CommonModules\ктв_сб_ОбработкиОбслуживания.xml-->CommonModules\ктв_сб_ОбработкиОбслуживания.xml
 CommonModules\ктв_сб_ОбработкиОбслуживанияВызовСервера.xml-->CommonModules\ктв_сб_ОбработкиОбслуживанияВызовСервера.xml
