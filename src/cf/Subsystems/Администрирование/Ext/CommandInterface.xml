@@ -5,34 +5,34 @@
 			<Visibility>
 				<xr:Common>false</xr:Common>
 				<xr:Value name="7309e58d-b0d4-4e0f-a74d-68cab03fea8e">true</xr:Value>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:d0106f3a-8490-4277-a278-75c318ec252c">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 				<xr:Value name="da2b47f5-4109-4f72-a4a5-70be24a6881f">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:c264441d-4805-4968-baa2-37b8970049c7">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 				<xr:Value name="7d069b11-cddd-463d-97be-3cbeaaf0954c">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:782cb93d-36e6-4923-b2b6-75caa3459cd6">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 				<xr:Value name="08cecb6f-478b-4645-9067-4f0e02a86171">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:0a136ad9-22ad-4ba7-a31a-40a193b49d26">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 				<xr:Value name="08cecb6f-478b-4645-9067-4f0e02a86171">true</xr:Value>
 				<xr:Value name="0cbe6083-e3a0-4140-ab6b-5f5f034c1295">true</xr:Value>
 			</Visibility>
@@ -40,33 +40,33 @@
 		<Command name="0:60aaa289-1f07-438c-8f10-81058ac671c3">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:10543f9a-4e3f-427a-b36a-9c66709dd6fb">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:0adf02da-940a-4bfc-afa5-59605494a169">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 				<xr:Value name="3f3a0b1b-04ce-47c1-928d-5e3483e9fd73">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:92707138-5004-4378-8477-f909166d319d">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 				<xr:Value name="4a008342-f72f-4ca1-bad1-64b59b509911">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:876e31ff-ab7b-4ea4-b491-161963727dd1">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 				<xr:Value name="7e84901c-cb7f-437c-a135-0902cd47acb6">true</xr:Value>
 			</Visibility>
 		</Command>
@@ -78,14 +78,14 @@
 		<Command name="0:92876c9e-52ff-480d-9878-5766f4f9d12c">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 				<xr:Value name="b68ec95b-64f3-4a2b-9683-231d50f01eeb">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:679cc0df-df5c-4c33-8c64-c0b6cee39116">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 				<xr:Value name="8692ba41-d91d-4af0-8aba-69dd5409d593">true</xr:Value>
 			</Visibility>
 		</Command>
@@ -97,157 +97,157 @@
 		<Command name="0:204289fb-4b0b-4967-acc7-b011c9ccb3f1">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 				<xr:Value name="74757510-55b7-4213-85bb-176755d28b22">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:02fa8b71-2c04-44ad-bcee-33a1cce5bfd1">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 				<xr:Value name="74757510-55b7-4213-85bb-176755d28b22">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:d912e472-9553-4b96-8b16-7aaff6c14239">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:52f4453e-e968-4290-a79a-470f68fbd07f">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:5b952e35-1037-4447-8293-6d8889692c8b">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:38fc1e6e-7cd3-437b-b429-6655be34cd01">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 				<xr:Value name="497ce8f3-f6f0-4da8-aeb0-0fa01bb26dc6">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:30845df5-b4f1-4f6a-997c-1b99dfb0e5d5">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:cb9b73ee-8531-48d9-9266-9aaa4336a612">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 				<xr:Value name="b68ec95b-64f3-4a2b-9683-231d50f01eeb">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:a2782760-dd4c-44d2-a785-814d6f610455">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 				<xr:Value name="7309e58d-b0d4-4e0f-a74d-68cab03fea8e">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:cb7c189d-eb29-4cbb-a86c-81c12b5ef481">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:e0cfe1c0-054e-4289-add3-6e5bce6ef3a6">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:f213e982-5b57-444f-8fa3-c1a7ea14b3ef">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 				<xr:Value name="62a73a94-605c-415b-ad3d-1d06cdded4c0">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:eb954f32-e40d-493d-bdb4-1166b5742ce3">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 				<xr:Value name="62a73a94-605c-415b-ad3d-1d06cdded4c0">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:023d747d-4ac1-4e0e-9de1-76bdc4f74d8b">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:27363ec4-6822-4db6-ae2e-c161bd247ae9">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 				<xr:Value name="ff8961dd-5953-4811-aff8-a887565a2778">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:f0347cbb-bf80-4b33-92b1-19907085b9a5">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 				<xr:Value name="89ab9c80-cd3c-43f8-beea-e68215b09760">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:a9d2dc97-1885-4c3f-b32e-62f45cc4f3f4">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 				<xr:Value name="89ab9c80-cd3c-43f8-beea-e68215b09760">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:f2c86b3a-c320-49d0-b1d7-d83f6a92b8ee">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 				<xr:Value name="89ab9c80-cd3c-43f8-beea-e68215b09760">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:38b773d7-0997-459e-9f6f-9da668377e7a">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 				<xr:Value name="89ab9c80-cd3c-43f8-beea-e68215b09760">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:cd454738-62dd-4f95-af33-b52750678428">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:bed3f0b2-40c6-4323-9bca-cb8864e38ec0">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:f31f3dab-5796-47ac-a54d-3081f8cad817">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:6b2340d7-687f-43a3-8eb8-8ddb86712466">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="0:91941f81-07dd-43a0-9baa-f5969b7472db">
 			<Visibility>
 				<xr:Common>false</xr:Common>
-				<xr:Value name="fdb012c9-583a-42af-95da-070e75a58078">true</xr:Value>
+				<xr:Value name="Role.ПолныеПрава">true</xr:Value>
 				<xr:Value name="b1d89099-82b2-42d0-be0f-85c08029837e">true</xr:Value>
 			</Visibility>
 		</Command>

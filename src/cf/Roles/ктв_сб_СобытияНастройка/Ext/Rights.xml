@@ -4,7 +4,7 @@
 	<setForAttributesByDefault>true</setForAttributesByDefault>
 	<independentRightsOfChildObjects>false</independentRightsOfChildObjects>
 	<object>
-		<name>Configuration.Конфигурация</name>
+		<name>Configuration.EventHUB</name>
 		<right>
 			<name>SaveUserData</name>
 			<value>true</value>

@@ -28,8 +28,13 @@
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
-			<Name>Конфигурация</Name>
-			<Synonym/>
+			<Name>EventHUB</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Event HUB</v8:content>
+				</v8:item>
+			</Synonym>
 			<Comment/>
 			<NamePrefix/>
 			<ConfigurationExtensionCompatibilityMode>Version8_3_10</ConfigurationExtensionCompatibilityMode>
@@ -38,7 +43,10 @@
 				<v8:Value xsi:type="app:ApplicationUsePurpose">PersonalComputer</v8:Value>
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
-			<DefaultRoles/>
+			<DefaultRoles>
+				<xr:Item xsi:type="xr:MDObjectRef">Role.ПолныеПрава</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Role.Администрирование</xr:Item>
+			</DefaultRoles>
 			<Vendor/>
 			<Version/>
 			<UpdateCatalogAddress/>
@@ -105,7 +113,12 @@
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
-			<Copyright/>
+			<Copyright>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Артем Кузнецов (KTB)</v8:content>
+				</v8:item>
+			</Copyright>
 			<VendorInformationAddress/>
 			<ConfigurationInformationAddress/>
 			<DataLockControlMode>Managed</DataLockControlMode>
@@ -119,6 +132,8 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>Администрирование</Subsystem>
+			<Role>Администрирование</Role>
+			<Role>ПолныеПрава</Role>
 			<Role>ктв_сб_СобытияНастройка</Role>
 			<CommonTemplate>ктв_сб_СобытияВерсияПодсистемы</CommonTemplate>
 			<CommonModule>ктв_сб_ОбработкиОбслуживанияВызовСервера</CommonModule>
