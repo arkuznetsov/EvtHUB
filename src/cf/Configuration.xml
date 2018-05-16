@@ -48,7 +48,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.Администрирование</xr:Item>
 			</DefaultRoles>
 			<Vendor/>
-			<Version/>
+			<Version>1.0.1.0</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
