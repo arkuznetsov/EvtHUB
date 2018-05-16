@@ -170,10 +170,13 @@
 			<Catalog>ктв_сб_События</Catalog>
 			<Catalog>ктв_сб_СобытияОбработчики</Catalog>
 			<Catalog>ктв_сб_СобытияТочкиВозникновения</Catalog>
+			<Catalog>ктв_НастройкиПодключенияКСУБД</Catalog>
 			<DataProcessor>ктв_сб_СобытияОбработчик_УниверсальныйОбработчик</DataProcessor>
 			<DataProcessor>ктв_сб_СобытияПроверка_УниверсальнаяПроверка</DataProcessor>
 			<DataProcessor>ктв_сб_СобытияПроверка_ИзменениеОбъекта</DataProcessor>
 			<DataProcessor>ктв_сб_ЗарегистрироватьСобытие</DataProcessor>
+			<DataProcessor>ктв_сб_ПроцессорЗапросов</DataProcessor>
+			<DataProcessor>ктв_сб_СобытияОбработчик_ВыгрузитьВСКЛ</DataProcessor>
 			<InformationRegister>ктв_сб_События</InformationRegister>
 			<InformationRegister>ктв_сб_СобытияНазначенныеОбработчики</InformationRegister>
 			<InformationRegister>ктв_сб_СобытияОбработка</InformationRegister>

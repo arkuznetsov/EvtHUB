@@ -54,6 +54,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ктв_сб_СобытияОбработкаНаКлиенте</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">EventSubscription.ктв_сб_СобытияВсеОбъектыПриКопировании</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">ScheduledJob.ктв_сб_СобытияУдалениеОбработанных</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.ктв_сб_ЗарегистрироватьСобытие</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

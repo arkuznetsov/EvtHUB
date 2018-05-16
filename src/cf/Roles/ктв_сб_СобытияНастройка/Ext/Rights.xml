@@ -127,6 +127,17 @@
 		</right>
 	</object>
 	<object>
+		<name>DataProcessor.ктв_сб_СобытияПроверка_ИзменениеОбъекта</name>
+		<right>
+			<name>Use</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>InformationRegister.ктв_сб_СобытияОбработкаНаКлиенте</name>
 		<right>
 			<name>Read</name>
@@ -151,6 +162,17 @@
 	</object>
 	<object>
 		<name>DataProcessor.ктв_сб_СобытияОбработчик_УниверсальныйОбработчик</name>
+		<right>
+			<name>Use</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>DataProcessor.ктв_сб_ЗарегистрироватьСобытие</name>
 		<right>
 			<name>Use</name>
 			<value>true</value>
@@ -212,6 +234,28 @@
 		</right>
 		<right>
 			<name>InteractiveClearDeletionMarkPredefinedData</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>DataProcessor.ктв_сб_ПроцессорЗапросов</name>
+		<right>
+			<name>Use</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>DataProcessor.ктв_сб_СобытияОбработчик_ВыгрузитьВСКЛ</name>
+		<right>
+			<name>Use</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
 			<value>true</value>
 		</right>
 	</object>
