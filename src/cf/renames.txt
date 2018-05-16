@@ -212,8 +212,6 @@ ScheduledJobs\ктв_сб_СобытияОтложеннаяОбработка.x
 ScheduledJobs\ктв_сб_СобытияУдалениеОбработанных.xml-->ScheduledJobs\ктв_сб_СобытияУдалениеОбработанных.xml
 Subsystems\Администрирование.xml-->Subsystems\Администрирование.xml
 Subsystems\Администрирование\Ext\CommandInterface.xml-->Subsystems\Администрирование\Ext\CommandInterface.xml
-Subsystems\Администрирование\Ext\Help.xml-->Subsystems\Администрирование\Ext\Help.xml
-Subsystems\Администрирование\Ext\Help\ru.html-->Subsystems\Администрирование\Ext\Help\ru.html
 Subsystems\Администрирование\Subsystems\ктв_сб_События.xml-->Subsystems\Администрирование\Subsystems\ктв_сб_События.xml
 Subsystems\Администрирование\Subsystems\ктв_сб_События\Ext\CommandInterface.xml-->Subsystems\Администрирование\Subsystems\ктв_сб_События\Ext\CommandInterface.xml
 WebServices\ktb_EventHub.xml-->WebServices\ktb_EventHub.xml
