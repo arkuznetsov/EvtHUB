@@ -38,11 +38,6 @@
 					<ContextMenu name="ИдКонтекстноеМеню" id="28"/>
 					<ExtendedTooltip name="ИдРасширеннаяПодсказка" id="29"/>
 				</InputField>
-				<Button name="ОбновитьИдентификатор" id="30">
-					<Type>UsualButton</Type>
-					<CommandName>Form.Command.ОбновитьИдентификатор</CommandName>
-					<ExtendedTooltip name="ОбновитьИдентификаторРасширеннаяПодсказка" id="31"/>
-				</Button>
 			</ChildItems>
 		</UsualGroup>
 		<InputField name="Наименование" id="4">
