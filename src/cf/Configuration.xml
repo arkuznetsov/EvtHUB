@@ -48,7 +48,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.Администрирование</xr:Item>
 			</DefaultRoles>
 			<Vendor/>
-			<Version>1.0.2.0</Version>
+			<Version>1.0.3.0</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -144,12 +144,12 @@
 			<CommonModule>ктв_сб_ОбработкиОбслуживания</CommonModule>
 			<CommonModule>ктв_сб_ОбработкиОбслуживанияКлиент</CommonModule>
 			<CommonModule>ктв_сб_События</CommonModule>
+			<CommonModule>ктв_сб_СобытияВнешниеЗапросы</CommonModule>
 			<CommonModule>ктв_сб_СобытияВызовСервера</CommonModule>
 			<CommonModule>ктв_сб_СобытияГлобальный</CommonModule>
 			<CommonModule>ктв_сб_СобытияКлиент</CommonModule>
 			<CommonModule>ктв_сб_СобытияОбновлениеИнформационнойБазы</CommonModule>
 			<CommonModule>ктв_сб_СобытияОбработкаВнешнихЗапросов</CommonModule>
-			<CommonModule>ктв_сб_СобытияВнешниеЗапросы</CommonModule>
 			<WebService>ktb_EventHub</WebService>
 			<HTTPService>ktb_EventHub</HTTPService>
 			<EventSubscription>ктв_сб_СобытияВсеОбъектыПриКопировании</EventSubscription>
@@ -187,6 +187,7 @@
 			<DataProcessor>ктв_сб_ПроцессорЗапросов</DataProcessor>
 			<DataProcessor>ктв_сб_СобытияОбработчик_ВыгрузитьВСКЛ</DataProcessor>
 			<DataProcessor>ктв_сб_СобытияОбработчик_ПередатьСобытиеВнешнимИБ</DataProcessor>
+			<DataProcessor>ктв_сб_СобытияОбработчик_ИзменениеПользователейАД</DataProcessor>
 			<InformationRegister>ктв_сб_События</InformationRegister>
 			<InformationRegister>ктв_сб_СобытияНазначенныеОбработчики</InformationRegister>
 			<InformationRegister>ктв_сб_СобытияОбработка</InformationRegister>
