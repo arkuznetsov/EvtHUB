@@ -173,6 +173,7 @@
 			<DataProcessor>ктв_сб_СобытияОбработчик_УниверсальныйОбработчик</DataProcessor>
 			<DataProcessor>ктв_сб_СобытияПроверка_УниверсальнаяПроверка</DataProcessor>
 			<DataProcessor>ктв_сб_СобытияПроверка_ИзменениеОбъекта</DataProcessor>
+			<DataProcessor>ктв_сб_ЗарегистрироватьСобытие</DataProcessor>
 			<InformationRegister>ктв_сб_События</InformationRegister>
 			<InformationRegister>ктв_сб_СобытияНазначенныеОбработчики</InformationRegister>
 			<InformationRegister>ктв_сб_СобытияОбработка</InformationRegister>
