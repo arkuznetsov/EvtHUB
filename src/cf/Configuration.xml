@@ -136,6 +136,7 @@
 			<Role>ПолныеПрава</Role>
 			<Role>ктв_сб_СобытияНастройка</Role>
 			<CommonTemplate>ктв_сб_СобытияВерсияПодсистемы</CommonTemplate>
+			<CommonModule>ОбщегоНазначенияКлиентСервер</CommonModule>
 			<CommonModule>ктв_сб_ОбработкиОбслуживанияВызовСервера</CommonModule>
 			<CommonModule>ктв_сб_ОбработкиОбслуживания</CommonModule>
 			<CommonModule>ктв_сб_ОбработкиОбслуживанияКлиент</CommonModule>
@@ -144,7 +145,9 @@
 			<CommonModule>ктв_сб_СобытияГлобальный</CommonModule>
 			<CommonModule>ктв_сб_СобытияКлиент</CommonModule>
 			<CommonModule>ктв_сб_СобытияОбновлениеИнформационнойБазы</CommonModule>
-			<CommonModule>ОбщегоНазначенияКлиентСервер</CommonModule>
+			<CommonModule>ктв_сб_СобытияОбработкаВнешнихЗапросов</CommonModule>
+			<WebService>ktb_EventHub</WebService>
+			<HTTPService>ktb_EventHub</HTTPService>
 			<EventSubscription>ктв_сб_СобытияВсеОбъектыПриКопировании</EventSubscription>
 			<EventSubscription>ктв_сб_СобытияВсеОбъектыКромеДокументовПередЗаписью</EventSubscription>
 			<EventSubscription>ктв_сб_СобытияДокументыПередЗаписью</EventSubscription>

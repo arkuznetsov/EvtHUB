@@ -65,6 +65,7 @@ CommonModules\ктв_сб_СобытияВызовСервера.xml-->CommonMod
 CommonModules\ктв_сб_СобытияГлобальный.xml-->CommonModules\ктв_сб_СобытияГлобальный.xml
 CommonModules\ктв_сб_СобытияКлиент.xml-->CommonModules\ктв_сб_СобытияКлиент.xml
 CommonModules\ктв_сб_СобытияОбновлениеИнформационнойБазы.xml-->CommonModules\ктв_сб_СобытияОбновлениеИнформационнойБазы.xml
+CommonModules\ктв_сб_СобытияОбработкаВнешнихЗапросов.xml-->CommonModules\ктв_сб_СобытияОбработкаВнешнихЗапросов.xml
 CommonModules\ОбщегоНазначенияКлиентСервер.xml-->CommonModules\ОбщегоНазначенияКлиентСервер.xml
 CommonModules\ктв_сб_ОбработкиОбслуживания\Ext\Module.bsl-->CommonModules\ктв_сб_ОбработкиОбслуживания\Ext\Module.bsl
 CommonModules\ктв_сб_ОбработкиОбслуживанияВызовСервера\Ext\Module.bsl-->CommonModules\ктв_сб_ОбработкиОбслуживанияВызовСервера\Ext\Module.bsl
@@ -74,6 +75,7 @@ CommonModules\ктв_сб_СобытияВызовСервера\Ext\Module.bsl-
 CommonModules\ктв_сб_СобытияГлобальный\Ext\Module.bsl-->CommonModules\ктв_сб_СобытияГлобальный\Ext\Module.bsl
 CommonModules\ктв_сб_СобытияКлиент\Ext\Module.bsl-->CommonModules\ктв_сб_СобытияКлиент\Ext\Module.bsl
 CommonModules\ктв_сб_СобытияОбновлениеИнформационнойБазы\Ext\Module.bsl-->CommonModules\ктв_сб_СобытияОбновлениеИнформационнойБазы\Ext\Module.bsl
+CommonModules\ктв_сб_СобытияОбработкаВнешнихЗапросов\Ext\Module.bsl-->CommonModules\ктв_сб_СобытияОбработкаВнешнихЗапросов\Ext\Module.bsl
 CommonModules\ОбщегоНазначенияКлиентСервер\Ext\Module.bsl-->CommonModules\ОбщегоНазначенияКлиентСервер\Ext\Module.bsl
 CommonTemplates\ктв_сб_СобытияВерсияПодсистемы.xml-->CommonTemplates\ктв_сб_СобытияВерсияПодсистемы.xml
 CommonTemplates\ктв_сб_СобытияВерсияПодсистемы\Ext\Template.txt-->CommonTemplates\ктв_сб_СобытияВерсияПодсистемы\Ext\Template.txt
@@ -136,6 +138,8 @@ EventSubscriptions\ктв_сб_СобытияЗадачиПередИнтера�
 EventSubscriptions\ктв_сб_СобытияЗадачиПриВыполнении.xml-->EventSubscriptions\ктв_сб_СобытияЗадачиПриВыполнении.xml
 EventSubscriptions\ктв_сб_СобытияРегистрыСведенийОбработкаЗаполнения.xml-->EventSubscriptions\ктв_сб_СобытияРегистрыСведенийОбработкаЗаполнения.xml
 Ext\ManagedApplicationModule.bsl-->Ext\ManagedApplicationModule.bsl
+HTTPServices\ktb_EventHub.xml-->HTTPServices\ktb_EventHub.xml
+HTTPServices\ktb_EventHub\Ext\Module.bsl-->HTTPServices\ktb_EventHub\Ext\Module.bsl
 InformationRegisters\ктв_сб_События.xml-->InformationRegisters\ктв_сб_События.xml
 InformationRegisters\ктв_сб_СобытияНазначенныеОбработчики.xml-->InformationRegisters\ктв_сб_СобытияНазначенныеОбработчики.xml
 InformationRegisters\ктв_сб_СобытияОбработка.xml-->InformationRegisters\ктв_сб_СобытияОбработка.xml
@@ -184,3 +188,5 @@ Subsystems\Администрирование\Ext\Help.xml-->Subsystems\Адми
 Subsystems\Администрирование\Ext\Help\ru.html-->Subsystems\Администрирование\Ext\Help\ru.html
 Subsystems\Администрирование\Subsystems\ктв_сб_События.xml-->Subsystems\Администрирование\Subsystems\ктв_сб_События.xml
 Subsystems\Администрирование\Subsystems\ктв_сб_События\Ext\CommandInterface.xml-->Subsystems\Администрирование\Subsystems\ктв_сб_События\Ext\CommandInterface.xml
+WebServices\ktb_EventHub.xml-->WebServices\ktb_EventHub.xml
+WebServices\ktb_EventHub\Ext\Module.bsl-->WebServices\ktb_EventHub\Ext\Module.bsl
