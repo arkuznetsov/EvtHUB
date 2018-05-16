@@ -146,6 +146,7 @@ Roles\ПолныеПрава.xml-->Roles\ПолныеПрава.xml
 Roles\Администрирование\Ext\Rights.xml-->Roles\Администрирование\Ext\Rights.xml
 Roles\ктв_сб_СобытияНастройка\Ext\Rights.xml-->Roles\ктв_сб_СобытияНастройка\Ext\Rights.xml
 Roles\ПолныеПрава\Ext\Rights.xml-->Roles\ПолныеПрава\Ext\Rights.xml
+ScheduledJobs\ктв_сб_СобытияОтложеннаяОбработка.xml-->ScheduledJobs\ктв_сб_СобытияОтложеннаяОбработка.xml
 ScheduledJobs\ктв_сб_СобытияУдалениеОбработанных.xml-->ScheduledJobs\ктв_сб_СобытияУдалениеОбработанных.xml
 Subsystems\Администрирование.xml-->Subsystems\Администрирование.xml
 Subsystems\Администрирование\Ext\CommandInterface.xml-->Subsystems\Администрирование\Ext\CommandInterface.xml

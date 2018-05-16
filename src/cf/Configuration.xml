@@ -48,7 +48,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.Администрирование</xr:Item>
 			</DefaultRoles>
 			<Vendor/>
-			<Version>1.0.1.0</Version>
+			<Version>1.0.2.0</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -163,6 +163,7 @@
 			<EventSubscription>ктв_сб_СобытияВсеНаборыЗаписейКромеРегистраРасчетовПередЗаписью</EventSubscription>
 			<EventSubscription>ктв_сб_СобытияВсеНаборыЗаписейКромеРегистраРасчетовПриЗаписи</EventSubscription>
 			<EventSubscription>ктв_сб_СобытияРегистрыСведенийОбработкаЗаполнения</EventSubscription>
+			<ScheduledJob>ктв_сб_СобытияОтложеннаяОбработка</ScheduledJob>
 			<ScheduledJob>ктв_сб_СобытияУдалениеОбработанных</ScheduledJob>
 			<Catalog>ИдентификаторыОбъектовМетаданных</Catalog>
 			<Catalog>Пользователи</Catalog>
