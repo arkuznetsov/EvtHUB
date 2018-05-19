@@ -104,6 +104,7 @@ DataProcessors\ктв_сб_СобытияОбработчик_ПередатьС
 DataProcessors\ктв_сб_СобытияОбработчик_УниверсальныйОбработчик.xml-->DataProcessors\ктв_сб_СобытияОбработчик_УниверсальныйОбработчик.xml
 DataProcessors\ктв_сб_СобытияПроверка_ИзменениеОбъекта.xml-->DataProcessors\ктв_сб_СобытияПроверка_ИзменениеОбъекта.xml
 DataProcessors\ктв_сб_СобытияПроверка_УниверсальнаяПроверка.xml-->DataProcessors\ктв_сб_СобытияПроверка_УниверсальнаяПроверка.xml
+DataProcessors\Обработка1.xml-->DataProcessors\Обработка1.xml
 DataProcessors\ктв_сб_ЗарегистрироватьСобытие\Commands\РегистрацияСобытий\Ext\CommandModule.bsl-->DataProcessors\ктв_сб_ЗарегистрироватьСобытие\Commands\РегистрацияСобытий\Ext\CommandModule.bsl
 DataProcessors\ктв_сб_ЗарегистрироватьСобытие\Forms\Форма.xml-->DataProcessors\ктв_сб_ЗарегистрироватьСобытие\Forms\Форма.xml
 DataProcessors\ктв_сб_ЗарегистрироватьСобытие\Forms\Форма\Ext\Form.xml-->DataProcessors\ктв_сб_ЗарегистрироватьСобытие\Forms\Форма\Ext\Form.xml
@@ -146,6 +147,11 @@ DataProcessors\ктв_сб_СобытияПроверка_Универсальн
 DataProcessors\ктв_сб_СобытияПроверка_УниверсальнаяПроверка\Forms\Форма.xml-->DataProcessors\ктв_сб_СобытияПроверка_УниверсальнаяПроверка\Forms\Форма.xml
 DataProcessors\ктв_сб_СобытияПроверка_УниверсальнаяПроверка\Forms\Форма\Ext\Form.xml-->DataProcessors\ктв_сб_СобытияПроверка_УниверсальнаяПроверка\Forms\Форма\Ext\Form.xml
 DataProcessors\ктв_сб_СобытияПроверка_УниверсальнаяПроверка\Forms\Форма\Ext\Form\Module.bsl-->DataProcessors\ктв_сб_СобытияПроверка_УниверсальнаяПроверка\Forms\Форма\Ext\Form\Module.bsl
+DataProcessors\Обработка1\Ext\ManagerModule.bsl-->DataProcessors\Обработка1\Ext\ManagerModule.bsl
+DataProcessors\Обработка1\Ext\ObjectModule.bsl-->DataProcessors\Обработка1\Ext\ObjectModule.bsl
+DataProcessors\Обработка1\Forms\Форма.xml-->DataProcessors\Обработка1\Forms\Форма.xml
+DataProcessors\Обработка1\Forms\Форма\Ext\Form.xml-->DataProcessors\Обработка1\Forms\Форма\Ext\Form.xml
+DataProcessors\Обработка1\Forms\Форма\Ext\Form\Module.bsl-->DataProcessors\Обработка1\Forms\Форма\Ext\Form\Module.bsl
 Enums\ктв_сб_ТипСервиса.xml-->Enums\ктв_сб_ТипСервиса.xml
 EventSubscriptions\ктв_сб_СобытияБизнессПроцессыЗадачиОбработкаИнтерактивнойАктивации.xml-->EventSubscriptions\ктв_сб_СобытияБизнессПроцессыЗадачиОбработкаИнтерактивнойАктивации.xml
 EventSubscriptions\ктв_сб_СобытияВсеНаборыЗаписейКромеРегистраРасчетовПередЗаписью.xml-->EventSubscriptions\ктв_сб_СобытияВсеНаборыЗаписейКромеРегистраРасчетовПередЗаписью.xml
